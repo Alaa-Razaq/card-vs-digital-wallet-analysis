@@ -37,6 +37,8 @@ This project analyzes payment trends between traditional card payments and digit
 
 ## 📁 Dataset
 Source: European Central Bank (ECB)
+  Link:(https://www.ecb.europa.eu/stats/payment_statistics)
+
 
 Includes:
 - Card payments
@@ -56,7 +58,7 @@ Includes:
 ---
 
 ## 📊 Dashboard
-[View Tableau Dashboard](PASTE-YOUR-LINK-HERE)
+[View Tableau Dashboard]([PASTE-YOUR-LINK-HERE](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
 
 ---
 
