@@ -60,6 +60,7 @@ Includes:
 ## 📊 Dashboard
 [View Tableau Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/PaymentTrendsAnalysis-CardvsDigitalWallet/Dashboard1)
 ![](dashboard.png)
+- The dashboard visualizes payment trends over time, comparing growth patterns between card payments and digital wallets.
 ---
 
 ## 💡 Key Insights
